@@ -1,0 +1,31 @@
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Archived files
+archive/
+folder_structure.txt
+folder_structure_full.txt
+
+# Experimental results
+results/
